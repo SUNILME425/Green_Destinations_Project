@@ -36,7 +36,7 @@ Insights from these metrics enable HR to identify areas for improvement and deve
 
 ### Dataset 📀
 
-https://www.kaggle.com/datasets/vinaykumar11061/greendestination
+https://www.kaggle.com/datasets
 
 ## Technology  
 Business Intelligence
@@ -54,7 +54,7 @@ Microsoft Software Power BI
 </div>
 
 # PowerBI Dashboard:
-![Attrition dashboard](https://github.com/VINAYDA11061/Green-Destination-Project/assets/125648329/ed1fcdb1-93e2-4fbb-875a-f7794a6af893)
+![Green_Destinations](https://github.com/user-attachments/assets/c8a83a3a-deb5-4273-b479-4b05ffbaa158)
 
 ### Benefits of attrition analysis:
 
